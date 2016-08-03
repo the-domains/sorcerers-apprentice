@@ -1,0 +1,28 @@
+name: Sorcerers apprentice
+favicon: null
+layout_spectrum: 0.13200359698385
+typography_spectrum: 0.8923415031749755
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8180405981838703
+  lightness: 0.4875898046884686
+  saturation: 0.28065635659731925
+  rhythmicContrast: 0.3421313886065036
+purpose: []
